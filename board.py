@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 l="abcdefghi"
 board={"a":"a","b":"b","c":"c","d":"d","e":"e","f":"f","g":"g","h":"h","i":"i"}
 print(" a | b | c \n---+---+---\n d | e | f \n---+---+---\n g | h | i ")
