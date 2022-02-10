@@ -63,6 +63,8 @@ while(i<=9):
 				else:
 					print("NOT WON")
 			prin(board)
+			if(i==9 and rc==0):
+				print("No one Won the Game")
 			if(a=="X"):
 				a="O"
 			else:
